@@ -23,4 +23,5 @@ Por ejemplo con VS Code + Live Server o Aperturar directo del HTML en carpeta.
 
 - Willian Inocencio
 - Romario Quispe
-
+- Luis Ayala
+- Richard Baldeón
