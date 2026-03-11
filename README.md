@@ -21,6 +21,6 @@ Por ejemplo con VS Code + Live Server o Aperturar directo del HTML en carpeta.
 
 ## Autor
 
-Willian Inocencio
-Romario Quispe
+- Willian Inocencio
+- Romario Quispe
 
