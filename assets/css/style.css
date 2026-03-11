@@ -8,6 +8,7 @@
   --primary: #04041f;
   --primary-soft: #e9ebf5;
   --success: #16a34a;
+
   --danger: #e11d48;
   --warning: #f59e0b;
   --shadow: 0 6px 18px rgba(18, 24, 40, 0.06);
@@ -577,6 +578,7 @@ label.form-label { font-weight: 700; }
 .auth-wrapper p {
   font-size: 1rem;
 }
+
 
 .auth-card h2,
 .auth-card h1 {
